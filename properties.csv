@@ -1,0 +1,4 @@
+Property Name,Suburb,State,Price,Expected Rent,Vacancy Rate,Infrastructure Score,Socioeconomic Score,Source Lead,Property Status
+Douglas House,Douglas,QLD,530000,550,0.8,8,6,Megha,Ready to Present
+Baldivis Estate,Baldivis,WA,670000,640,1.2,9,7,Sunit,Needs Negotiation
+Glenelg Premium,Glenelg,SA,1080000,900,0.9,10,9,Julius,Off-Market
